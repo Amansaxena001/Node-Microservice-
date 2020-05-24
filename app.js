@@ -1,8 +1,8 @@
-require('./node_modules_bkp/dotenv').config()
+require('dotenv').config()
 
 const express = require('express')
 const app = express()
-const Jimp = require('./node_modules_bkp/jimp');
+const Jimp = require('jimp');
 const uniqid = require('uniqid');
 const jwt = require('jsonwebtoken')
 
