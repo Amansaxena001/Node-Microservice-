@@ -40,6 +40,7 @@ Special functionality added:
 ##### /token
 
 This is a POST request the passes the username  and on success it returns a **json web token (jwt)** that grants permissions for other requested endpoints or which can be used to validate future requests.
+-Pass the username in the body as JSON and token for specified user will be generated.
 
 ##### /image (Protected Endpoints)
 
