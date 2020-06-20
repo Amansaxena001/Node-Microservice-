@@ -5,7 +5,7 @@ Here we have 2 servers to cross check Jsonwebtoken security,if a valid token aut
 access token.(Secret key)
 
 
-A simple stateless microservice in Nodejs, with three major functionalities;
+A simple stateless microservice in Nodejs, with two major functionalities;
 
 - Authentication
 - Image Thumbnail Generation.
