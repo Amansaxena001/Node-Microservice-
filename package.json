@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "http": "0.0.1-security",
     "jimp": "^0.12.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "uniqid": "^5.2.0"
   },
   "devDependencies": {
